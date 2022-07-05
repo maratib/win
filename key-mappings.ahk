@@ -6,4 +6,6 @@ return
 Send, ^c
 return
 
+#`::
+Send, ^`
 
